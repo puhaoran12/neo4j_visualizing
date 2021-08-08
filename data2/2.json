@@ -1,0 +1,1302 @@
+﻿[
+  {
+    "p": {
+      "start": {
+        "identity": 23,
+        "labels": [
+          "技术要求"
+        ],
+        "properties": {
+          "name": "掺配点及掺配方式"
+        }
+      },
+      "end": {
+        "identity": 0,
+        "labels": [
+          "工序"
+        ],
+        "properties": {
+          "名字": "薄片掺配"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 23,
+            "labels": [
+              "技术要求"
+            ],
+            "properties": {
+              "名字": "掺配点及掺配方式"
+            }
+          },
+          "relationship": {
+            "identity": 3,
+            "start": 23,
+            "end": 0,
+            "type": "技术要求",
+            "properties": {}
+          },
+          "end": {
+            "identity": 0,
+            "labels": [
+              "工序"
+            ],
+            "properties": {
+              "名字": "薄片掺配"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 22,
+        "labels": [
+          "技术要求"
+        ],
+        "properties": {
+          "名字": "掺配量"
+        }
+      },
+      "end": {
+        "identity": 0,
+        "labels": [
+          "工序"
+        ],
+        "properties": {
+          "名字": "薄片掺配"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 22,
+            "labels": [
+              "技术要求"
+            ],
+            "properties": {
+              "名字": "掺配量"
+            }
+          },
+          "relationship": {
+            "identity": 2,
+            "start": 22,
+            "end": 0,
+            "type": "技术要求",
+            "properties": {}
+          },
+          "end": {
+            "identity": 0,
+            "labels": [
+              "工序"
+            ],
+            "properties": {
+              "名字": "薄片掺配"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 21,
+        "labels": [
+          "技术要求"
+        ],
+        "properties": {
+          "名字": "掺配比例"
+        }
+      },
+      "end": {
+        "identity": 0,
+        "labels": [
+          "工序"
+        ],
+        "properties": {
+          "名字": "薄片掺配"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 21,
+            "labels": [
+              "技术要求"
+            ],
+            "properties": {
+              "名字": "掺配比例"
+            }
+          },
+          "relationship": {
+            "identity": 1,
+            "start": 21,
+            "end": 0,
+            "type": "技术要求",
+            "properties": {}
+          },
+          "end": {
+            "identity": 0,
+            "labels": [
+              "工序"
+            ],
+            "properties": {
+              "名字": "薄片掺配"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 20,
+        "labels": [
+          "技术要求"
+        ],
+        "properties": {
+          "名字": "薄片规格"
+        }
+      },
+      "end": {
+        "identity": 0,
+        "labels": [
+          "工序"
+        ],
+        "properties": {
+          "名字": "薄片掺配"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 20,
+            "labels": [
+              "技术要求"
+            ],
+            "properties": {
+              "名字": "薄片规格"
+            }
+          },
+          "relationship": {
+            "identity": 0,
+            "start": 20,
+            "end": 0,
+            "type": "技术要求",
+            "properties": {}
+          },
+          "end": {
+            "identity": 0,
+            "labels": [
+              "工序"
+            ],
+            "properties": {
+              "名字": "薄片掺配"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 31,
+        "labels": [
+          "质量指标"
+        ],
+        "properties": {
+          "名字": "出料温度"
+        }
+      },
+      "end": {
+        "identity": 1,
+        "labels": [
+          "工序"
+        ],
+        "properties": {
+          "名字": "松散回潮"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 31,
+            "labels": [
+              "质量指标"
+            ],
+            "properties": {
+              "名字": "出料温度"
+            }
+          },
+          "relationship": {
+            "identity": 9,
+            "start": 31,
+            "end": 1,
+            "type": "质量指标",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1,
+            "labels": [
+              "工序"
+            ],
+            "properties": {
+              "名字": "松散回潮"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 32,
+        "labels": [
+          "质量指标"
+        ],
+        "properties": {
+          "名字": "出料含水率"
+        }
+      },
+      "end": {
+        "identity": 1,
+        "labels": [
+          "工序"
+        ],
+        "properties": {
+          "名字": "松散回潮"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 32,
+            "labels": [
+              "质量指标"
+            ],
+            "properties": {
+              "名字": "出料含水率"
+            }
+          },
+          "relationship": {
+            "identity": 8,
+            "start": 32,
+            "end": 1,
+            "type": "质量指标",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1,
+            "labels": [
+              "工序"
+            ],
+            "properties": {
+              "名字": "松散回潮"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 27,
+        "labels": [
+          "加工参数"
+        ],
+        "properties": {
+          "名字": "工艺热风温度"
+        }
+      },
+      "end": {
+        "identity": 1,
+        "labels": [
+          "工序"
+        ],
+        "properties": {
+          "名字": "松散回潮"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 27,
+            "labels": [
+              "加工参数"
+            ],
+            "properties": {
+              "名字": "工艺热风温度"
+            }
+          },
+          "relationship": {
+            "identity": 7,
+            "start": 27,
+            "end": 1,
+            "type": "加工参数",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1,
+            "labels": [
+              "工序"
+            ],
+            "properties": {
+              "名字": "松散回潮"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 26,
+        "labels": [
+          "加工参数"
+        ],
+        "properties": {
+          "名字": "循环风门开度"
+        }
+      },
+      "end": {
+        "identity": 1,
+        "labels": [
+          "工序"
+        ],
+        "properties": {
+          "名字": "松散回潮"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 26,
+            "labels": [
+              "加工参数"
+            ],
+            "properties": {
+              "名字": "循环风门开度"
+            }
+          },
+          "relationship": {
+            "identity": 6,
+            "start": 26,
+            "end": 1,
+            "type": "加工参数",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1,
+            "labels": [
+              "工序"
+            ],
+            "properties": {
+              "名字": "松散回潮"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 25,
+        "labels": [
+          "加工参数"
+        ],
+        "properties": {
+          "名字": "排潮风门开度"
+        }
+      },
+      "end": {
+        "identity": 1,
+        "labels": [
+          "工序"
+        ],
+        "properties": {
+          "名字": "松散回潮"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 25,
+            "labels": [
+              "加工参数"
+            ],
+            "properties": {
+              "名字": "排潮风门开度"
+            }
+          },
+          "relationship": {
+            "identity": 5,
+            "start": 25,
+            "end": 1,
+            "type": "加工参数",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1,
+            "labels": [
+              "工序"
+            ],
+            "properties": {
+              "名字": "松散回潮"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 24,
+        "labels": [
+          "加工参数"
+        ],
+        "properties": {
+          "名字": "工艺流量"
+        }
+      },
+      "end": {
+        "identity": 1,
+        "labels": [
+          "工序"
+        ],
+        "properties": {
+          "名字": "松散回潮"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 24,
+            "labels": [
+              "加工参数"
+            ],
+            "properties": {
+              "名字": "工艺流量"
+            }
+          },
+          "relationship": {
+            "identity": 4,
+            "start": 24,
+            "end": 1,
+            "type": "加工参数",
+            "properties": {}
+          },
+          "end": {
+            "identity": 1,
+            "labels": [
+              "工序"
+            ],
+            "properties": {
+              "名字": "松散回潮"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 31,
+        "labels": [
+          "质量指标"
+        ],
+        "properties": {
+          "名字": "出料温度"
+        }
+      },
+      "end": {
+        "identity": 2,
+        "labels": [
+          "工序"
+        ],
+        "properties": {
+          "名字": "一级加料"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 31,
+            "labels": [
+              "质量指标"
+            ],
+            "properties": {
+              "名字": "出料温度"
+            }
+          },
+          "relationship": {
+            "identity": 18,
+            "start": 31,
+            "end": 2,
+            "type": "质量指标",
+            "properties": {}
+          },
+          "end": {
+            "identity": 2,
+            "labels": [
+              "工序"
+            ],
+            "properties": {
+              "名字": "一级加料"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 32,
+        "labels": [
+          "质量指标"
+        ],
+        "properties": {
+          "名字": "出料含水率"
+        }
+      },
+      "end": {
+        "identity": 2,
+        "labels": [
+          "工序"
+        ],
+        "properties": {
+          "名字": "一级加料"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 32,
+            "labels": [
+              "质量指标"
+            ],
+            "properties": {
+              "名字": "出料含水率"
+            }
+          },
+          "relationship": {
+            "identity": 17,
+            "start": 32,
+            "end": 2,
+            "type": "质量指标",
+            "properties": {}
+          },
+          "end": {
+            "identity": 2,
+            "labels": [
+              "工序"
+            ],
+            "properties": {
+              "名字": "一级加料"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 30,
+        "labels": [
+          "加工参数"
+        ],
+        "properties": {
+          "名字": "料液温度"
+        }
+      },
+      "end": {
+        "identity": 2,
+        "labels": [
+          "工序"
+        ],
+        "properties": {
+          "名字": "一级加料"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 30,
+            "labels": [
+              "加工参数"
+            ],
+            "properties": {
+              "名字": "料液温度"
+            }
+          },
+          "relationship": {
+            "identity": 16,
+            "start": 30,
+            "end": 2,
+            "type": "加工参数",
+            "properties": {}
+          },
+          "end": {
+            "identity": 2,
+            "labels": [
+              "工序"
+            ],
+            "properties": {
+              "名字": "一级加料"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 27,
+        "labels": [
+          "加工参数"
+        ],
+        "properties": {
+          "名字": "工艺热风温度"
+        }
+      },
+      "end": {
+        "identity": 2,
+        "labels": [
+          "工序"
+        ],
+        "properties": {
+          "名字": "一级加料"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 27,
+            "labels": [
+              "加工参数"
+            ],
+            "properties": {
+              "名字": "工艺热风温度"
+            }
+          },
+          "relationship": {
+            "identity": 15,
+            "start": 27,
+            "end": 2,
+            "type": "加工参数",
+            "properties": {}
+          },
+          "end": {
+            "identity": 2,
+            "labels": [
+              "工序"
+            ],
+            "properties": {
+              "名字": "一级加料"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 29,
+        "labels": [
+          "加工参数"
+        ],
+        "properties": {
+          "名字": "加料比例"
+        }
+      },
+      "end": {
+        "identity": 2,
+        "labels": [
+          "工序"
+        ],
+        "properties": {
+          "名字": "一级加料"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 29,
+            "labels": [
+              "加工参数"
+            ],
+            "properties": {
+              "名字": "加料比例"
+            }
+          },
+          "relationship": {
+            "identity": 14,
+            "start": 29,
+            "end": 2,
+            "type": "加工参数",
+            "properties": {}
+          },
+          "end": {
+            "identity": 2,
+            "labels": [
+              "工序"
+            ],
+            "properties": {
+              "名字": "一级加料"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 28,
+        "labels": [
+          "加工参数"
+        ],
+        "properties": {
+          "名字": "压缩空气温度"
+        }
+      },
+      "end": {
+        "identity": 2,
+        "labels": [
+          "工序"
+        ],
+        "properties": {
+          "名字": "一级加料"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 28,
+            "labels": [
+              "加工参数"
+            ],
+            "properties": {
+              "名字": "压缩空气温度"
+            }
+          },
+          "relationship": {
+            "identity": 13,
+            "start": 28,
+            "end": 2,
+            "type": "加工参数",
+            "properties": {}
+          },
+          "end": {
+            "identity": 2,
+            "labels": [
+              "工序"
+            ],
+            "properties": {
+              "名字": "一级加料"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 25,
+        "labels": [
+          "加工参数"
+        ],
+        "properties": {
+          "名字": "排潮风门开度"
+        }
+      },
+      "end": {
+        "identity": 2,
+        "labels": [
+          "工序"
+        ],
+        "properties": {
+          "名字": "一级加料"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 25,
+            "labels": [
+              "加工参数"
+            ],
+            "properties": {
+              "名字": "排潮风门开度"
+            }
+          },
+          "relationship": {
+            "identity": 12,
+            "start": 25,
+            "end": 2,
+            "type": "加工参数",
+            "properties": {}
+          },
+          "end": {
+            "identity": 2,
+            "labels": [
+              "工序"
+            ],
+            "properties": {
+              "名字": "一级加料"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 26,
+        "labels": [
+          "加工参数"
+        ],
+        "properties": {
+          "名字": "循环风门开度"
+        }
+      },
+      "end": {
+        "identity": 2,
+        "labels": [
+          "工序"
+        ],
+        "properties": {
+          "名字": "一级加料"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 26,
+            "labels": [
+              "加工参数"
+            ],
+            "properties": {
+              "名字": "循环风门开度"
+            }
+          },
+          "relationship": {
+            "identity": 11,
+            "start": 26,
+            "end": 2,
+            "type": "加工参数",
+            "properties": {}
+          },
+          "end": {
+            "identity": 2,
+            "labels": [
+              "工序"
+            ],
+            "properties": {
+              "名字": "一级加料"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 24,
+        "labels": [
+          "加工参数"
+        ],
+        "properties": {
+          "名字": "工艺流量"
+        }
+      },
+      "end": {
+        "identity": 2,
+        "labels": [
+          "工序"
+        ],
+        "properties": {
+          "名字": "一级加料"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 24,
+            "labels": [
+              "加工参数"
+            ],
+            "properties": {
+              "名字": "工艺流量"
+            }
+          },
+          "relationship": {
+            "identity": 10,
+            "start": 24,
+            "end": 2,
+            "type": "加工参数",
+            "properties": {}
+          },
+          "end": {
+            "identity": 2,
+            "labels": [
+              "工序"
+            ],
+            "properties": {
+              "名字": "一级加料"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 31,
+        "labels": [
+          "质量指标"
+        ],
+        "properties": {
+          "名字": "出料温度"
+        }
+      },
+      "end": {
+        "identity": 3,
+        "labels": [
+          "工序"
+        ],
+        "properties": {
+          "名字": "二级加料"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 31,
+            "labels": [
+              "质量指标"
+            ],
+            "properties": {
+              "名字": "出料温度"
+            }
+          },
+          "relationship": {
+            "identity": 25,
+            "start": 31,
+            "end": 3,
+            "type": "质量指标",
+            "properties": {}
+          },
+          "end": {
+            "identity": 3,
+            "labels": [
+              "工序"
+            ],
+            "properties": {
+              "名字": "二级加料"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 32,
+        "labels": [
+          "质量指标"
+        ],
+        "properties": {
+          "名字": "出料含水率"
+        }
+      },
+      "end": {
+        "identity": 3,
+        "labels": [
+          "工序"
+        ],
+        "properties": {
+          "名字": "二级加料"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 32,
+            "labels": [
+              "质量指标"
+            ],
+            "properties": {
+              "名字": "出料含水率"
+            }
+          },
+          "relationship": {
+            "identity": 24,
+            "start": 32,
+            "end": 3,
+            "type": "质量指标",
+            "properties": {}
+          },
+          "end": {
+            "identity": 3,
+            "labels": [
+              "工序"
+            ],
+            "properties": {
+              "名字": "二级加料"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 30,
+        "labels": [
+          "加工参数"
+        ],
+        "properties": {
+          "名字": "料液温度"
+        }
+      },
+      "end": {
+        "identity": 3,
+        "labels": [
+          "工序"
+        ],
+        "properties": {
+          "名字": "二级加料"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 30,
+            "labels": [
+              "加工参数"
+            ],
+            "properties": {
+              "名字": "料液温度"
+            }
+          },
+          "relationship": {
+            "identity": 23,
+            "start": 30,
+            "end": 3,
+            "type": "加工参数",
+            "properties": {}
+          },
+          "end": {
+            "identity": 3,
+            "labels": [
+              "工序"
+            ],
+            "properties": {
+              "名字": "二级加料"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 29,
+        "labels": [
+          "加工参数"
+        ],
+        "properties": {
+          "名字": "加料比例"
+        }
+      },
+      "end": {
+        "identity": 3,
+        "labels": [
+          "工序"
+        ],
+        "properties": {
+          "名字": "二级加料"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 29,
+            "labels": [
+              "加工参数"
+            ],
+            "properties": {
+              "名字": "加料比例"
+            }
+          },
+          "relationship": {
+            "identity": 22,
+            "start": 29,
+            "end": 3,
+            "type": "加工参数",
+            "properties": {}
+          },
+          "end": {
+            "identity": 3,
+            "labels": [
+              "工序"
+            ],
+            "properties": {
+              "名字": "二级加料"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 28,
+        "labels": [
+          "加工参数"
+        ],
+        "properties": {
+          "名字": "压缩空气温度"
+        }
+      },
+      "end": {
+        "identity": 3,
+        "labels": [
+          "工序"
+        ],
+        "properties": {
+          "名字": "二级加料"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 28,
+            "labels": [
+              "加工参数"
+            ],
+            "properties": {
+              "名字": "压缩空气温度"
+            }
+          },
+          "relationship": {
+            "identity": 21,
+            "start": 28,
+            "end": 3,
+            "type": "加工参数",
+            "properties": {}
+          },
+          "end": {
+            "identity": 3,
+            "labels": [
+              "工序"
+            ],
+            "properties": {
+              "名字": "二级加料"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 25,
+        "labels": [
+          "加工参数"
+        ],
+        "properties": {
+          "名字": "排潮风门开度"
+        }
+      },
+      "end": {
+        "identity": 3,
+        "labels": [
+          "工序"
+        ],
+        "properties": {
+          "名字": "二级加料"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 25,
+            "labels": [
+              "加工参数"
+            ],
+            "properties": {
+              "名字": "排潮风门开度"
+            }
+          },
+          "relationship": {
+            "identity": 20,
+            "start": 25,
+            "end": 3,
+            "type": "加工参数",
+            "properties": {}
+          },
+          "end": {
+            "identity": 3,
+            "labels": [
+              "工序"
+            ],
+            "properties": {
+              "名字": "二级加料"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  }
+]

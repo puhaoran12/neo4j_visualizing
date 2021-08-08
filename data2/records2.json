@@ -1,0 +1,344 @@
+﻿[
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "silk"
+      ],
+      "properties": {
+        "name": "基本工序",
+        "label": "制丝",
+        "id": "1001"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 1,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "standard": "160或50",
+        "name": "薄片规格",
+        "id": "10010",
+        "grade": "1"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "standard": "按原批原用的原则进行均匀掺配，掺配比例为：12.0%（以薄板模组+气流模组烟片投料总量为基数）",
+        "name": "掺配比例",
+        "id": "10011",
+        "grade": "1"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 3,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "standard": "480（不进行预处理的掺配量）",
+        "name": "掺配量",
+        "id": "10012",
+        "grade": "1"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 4,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "standard": "160kg规格薄片须按掺配量在A线随每批次烟片料头进行投料，不足160kg规格薄片掺配旁线在切片工序后均匀投料",
+        "name": "掺配点及掺配方式",
+        "id": "10013",
+        "grade": "2"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 5,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "standard": "B、C线云烟（紫）薄片预处理须按照“Q/YNZY.J03.20106.1《薄片预处理 昆明卷烟厂》”标准进行",
+        "name": "BC线标准",
+        "id": "10014",
+        "grade": "2"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "standard": "115或50",
+        "name": "薄片规格",
+        "id": "10015",
+        "grade": "3"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 7,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "standard": "12.0（以薄板模组+气流模组烟片投料总量为基数）",
+        "name": "掺配比例",
+        "id": "10016",
+        "grade": "1"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 8,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "standard": "1035（预处理后按含水率17.0%折算的掺配量）/960（不进行预处理的掺配量）",
+        "name": "掺配量",
+        "id": "10017",
+        "grade": "1"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 9,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "standard": "9箱（针对预处理后箱贮115kg/箱）/19箱+10kg（针对不进行预处理50kg/箱）",
+        "name": "掺配数",
+        "id": "10018",
+        "grade": "1"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 10,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "standard": "箱贮后薄片从B线或C线二级加料工序前随每批烟片的料头进行连续翻箱掺配，薄片不得掺入D线气流模组中。对箱装量不足115kg/箱的箱贮薄片，可根据实际装箱量累计达到批次掺配量时，按实际箱数随批连续翻箱掺入云烟(紫)烟片中。(对于箱装规格为50kg/件的薄片不进行预处理，掺配时由人工按掺配比例从切片机后均匀掺配，并对二级加料比例作相应调整)",
+        "name": "掺配方式及要求",
+        "id": "10019",
+        "grade": "2"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 11,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "standard": "模组1A线3000kg/h，模组1BCD线6000kg/h，模组2D线6000kg/h",
+        "name": "工艺流量",
+        "id": "10020",
+        "grade": "2"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 12,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "standard": "模组1A线50%，模组1BCD50%，模组2D线50%",
+        "name": "排潮风门开度",
+        "id": "10021",
+        "grade": "2"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 13,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "standard": "模组1A线70%，模组1BCD线70%，模组2D线70%",
+        "name": "循环风门开度",
+        "id": "10022",
+        "grade": "2"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 14,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "standard": "模组1A线61.0±3.0℃，模组1BCD线62.0±3.0℃，模组2D线65.0±3.0℃",
+        "name": "工艺热风温度",
+        "id": "10023",
+        "grade": "3"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 15,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "一级加料（二级松散回朝）",
+        "id": "10026",
+        "label": "工序"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "烟片箱贮",
+        "label": "工序",
+        "id": "10027"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 17,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "standard": "模组1A线3000kg/h，模组1BCD线6000kg/h，模组2D线6000kg/h",
+        "name": "工艺流量",
+        "id": "10028",
+        "grade": "2"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 18,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "standard": "模组1A线70%，模组1BCD线70%，模组2D线70%",
+        "name": "循环风门开度",
+        "id": "10029",
+        "grade": "2"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 19,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "standard": "模组1A线20%，模组1BCD线20%，模组2D线20%",
+        "name": "排潮风门开度",
+        "id": "10030",
+        "grade": "2"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 20,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "薄片预处理及掺配",
+        "id": "10001",
+        "label": " 工序"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 21,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "松散回潮",
+        "label": " 工序",
+        "id": "10002"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 22,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "一级加料",
+        "label": " 工序",
+        "id": "10003"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 23,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "二级加料",
+        "label": " 工序",
+        "id": "10004"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 24,
+      "labels": [
+        "Entity"
+      ],
+      "properties": {
+        "name": "叶丝膨胀干燥",
+        "label": " 工序",
+        "id": "10005"
+      }
+    }
+  }
+]

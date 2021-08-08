@@ -1,0 +1,2112 @@
+﻿[
+  {
+    "p": {
+      "start": {
+        "identity": 660,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "一级加料",
+          "label": "装配",
+          "id": "100002"
+        }
+      },
+      "end": {
+        "identity": 641,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "曲轴",
+          "label": "飞轮组",
+          "id": "20001"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 660,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "一级加料",
+              "label": "装配",
+              "id": "100002"
+            }
+          },
+          "relationship": {
+            "identity": 725,
+            "start": 660,
+            "end": 641,
+            "type": "包含",
+            "properties": {
+              "relationship": "P1包含P2",
+              "P1": "一级加料",
+              "P2": "曲轴"
+            }
+          },
+          "end": {
+            "identity": 641,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "曲轴",
+              "label": "飞轮组",
+              "id": "20001"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 660,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "一级加料",
+          "label": "装配",
+          "id": "100002"
+        }
+      },
+      "end": {
+        "identity": 642,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "带轮",
+          "label": "飞轮组",
+          "id": "20002"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 660,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "一级加料",
+              "label": "装配",
+              "id": "100002"
+            }
+          },
+          "relationship": {
+            "identity": 726,
+            "start": 660,
+            "end": 642,
+            "type": "包含",
+            "properties": {
+              "relationship": "P1包含P2",
+              "P1": "一级加料",
+              "P2": "带轮"
+            }
+          },
+          "end": {
+            "identity": 642,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "加料比例",
+              "id": "20002"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 660,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "一级加料",
+          "id": "100002"
+        }
+      },
+      "end": {
+        "identity": 643,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "正时齿轮",
+          "label": "飞轮组",
+          "id": "20003"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 660,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "一级加料",
+              "label": "装配",
+              "id": "100002"
+            }
+          },
+          "relationship": {
+            "identity": 727,
+            "start": 660,
+            "end": 643,
+            "type": "包含",
+            "properties": {
+              "relationship": "P1包含P2",
+              "P1": "一级加料",
+              "P2": "正时齿轮"
+            }
+          },
+          "end": {
+            "identity": 643,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "正时齿轮",
+              "label": "飞轮组",
+              "id": "20003"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 660,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "一级加料",
+          "label": "装配",
+          "id": "100002"
+        }
+      },
+      "end": {
+        "identity": 644,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "循环风门开度",
+          "label": "飞轮组",
+          "id": "20004"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 660,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "一级加料",
+              "label": "装配",
+              "id": "100002"
+            }
+          },
+          "relationship": {
+            "identity": 728,
+            "start": 660,
+            "end": 644,
+            "type": "包含",
+            "properties": {
+              "relationship": "P1包含P2",
+              "P1": "一级加料",
+              "P2": "循环风门开度"
+            }
+          },
+          "end": {
+            "identity": 644,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "循环风门开度",
+              "label": "飞轮组",
+              "id": "20004"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 660,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "一级加料",
+          "label": "装配",
+          "id": "100002"
+        }
+      },
+      "end": {
+        "identity": 645,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "组合止推轴承",
+          "label": "飞轮组",
+          "id": "20005"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 660,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "一级加料",
+              "label": "装配",
+              "id": "100002"
+            }
+          },
+          "relationship": {
+            "identity": 729,
+            "start": 660,
+            "end": 645,
+            "type": "包含",
+            "properties": {
+              "relationship": "P1包含P2",
+              "P1": "一级加料",
+              "P2": "组合止推轴承"
+            }
+          },
+          "end": {
+            "identity": 645,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "组合止推轴承",
+              "label": "飞轮组",
+              "id": "20005"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 660,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "一级加料",
+          "label": "装配",
+          "id": "100002"
+        }
+      },
+      "end": {
+        "identity": 646,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "滚针轴承",
+          "label": "飞轮组",
+          "id": "20006"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 660,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "一级加料",
+              "label": "装配",
+              "id": "100002"
+            }
+          },
+          "relationship": {
+            "identity": 730,
+            "start": 660,
+            "end": 646,
+            "type": "包含",
+            "properties": {
+              "relationship": "P1包含P2",
+              "P1": "一级加料",
+              "P2": "滚针轴承"
+            }
+          },
+          "end": {
+            "identity": 646,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "滚针轴承",
+              "label": "飞轮组",
+              "id": "20006"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 660,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "一级加料",
+          "label": "装配",
+          "id": "100002"
+        }
+      },
+      "end": {
+        "identity": 647,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "飞轮",
+          "label": "飞轮组",
+          "id": "20007"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 660,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "一级加料",
+              "label": "装配",
+              "id": "100002"
+            }
+          },
+          "relationship": {
+            "identity": 731,
+            "start": 660,
+            "end": 647,
+            "type": "包含",
+            "properties": {
+              "relationship": "P1包含P2",
+              "P1": "一级加料",
+              "P2": "飞轮"
+            }
+          },
+          "end": {
+            "identity": 647,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "飞轮",
+              "label": "飞轮组",
+              "id": "20007"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 660,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "一级加料",
+          "label": "装配",
+          "id": "100002"
+        }
+      },
+      "end": {
+        "identity": 648,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "连杆轴瓦",
+          "label": "活塞连杆",
+          "id": "20008"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 660,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "一级加料",
+              "label": "装配",
+              "id": "100002"
+            }
+          },
+          "relationship": {
+            "identity": 732,
+            "start": 660,
+            "end": 648,
+            "type": "包含",
+            "properties": {
+              "relationship": "P1包含P2",
+              "P1": "一级加料",
+              "P2": "连杆轴瓦"
+            }
+          },
+          "end": {
+            "identity": 648,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "连杆轴瓦",
+              "label": "活塞连杆",
+              "id": "20008"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 660,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "一级加料",
+          "label": "装配",
+          "id": "100002"
+        }
+      },
+      "end": {
+        "identity": 649,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "连杆盖",
+          "label": "活塞连杆",
+          "id": "20009"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 660,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "一级加料",
+              "label": "装配",
+              "id": "100002"
+            }
+          },
+          "relationship": {
+            "identity": 733,
+            "start": 660,
+            "end": 649,
+            "type": "包含",
+            "properties": {
+              "relationship": "P1包含P2",
+              "P1": "一级加料",
+              "P2": "连杆盖"
+            }
+          },
+          "end": {
+            "identity": 649,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "连杆盖",
+              "label": "活塞连杆",
+              "id": "20009"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 660,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "一级加料",
+          "label": "装配",
+          "id": "100002"
+        }
+      },
+      "end": {
+        "identity": 650,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "连杆",
+          "label": "活塞连杆",
+          "id": "20010"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 660,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "一级加料",
+              "label": "装配",
+              "id": "100002"
+            }
+          },
+          "relationship": {
+            "identity": 734,
+            "start": 660,
+            "end": 650,
+            "type": "包含",
+            "properties": {
+              "relationship": "P1包含P2",
+              "P1": "一级加料",
+              "P2": "连杆"
+            }
+          },
+          "end": {
+            "identity": 650,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "连杆",
+              "label": "活塞连杆",
+              "id": "20010"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 660,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "一级加料",
+          "label": "装配",
+          "id": "100002"
+        }
+      },
+      "end": {
+        "identity": 651,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "活塞",
+          "label": "活塞连杆",
+          "id": "20011"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 660,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "一级加料",
+              "label": "装配",
+              "id": "100002"
+            }
+          },
+          "relationship": {
+            "identity": 735,
+            "start": 660,
+            "end": 651,
+            "type": "包含",
+            "properties": {
+              "relationship": "P1包含P2",
+              "P1": "一级加料",
+              "P2": "活塞"
+            }
+          },
+          "end": {
+            "identity": 651,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "活塞",
+              "label": "活塞连杆",
+              "id": "20011"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 660,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "一级加料",
+          "label": "装配",
+          "id": "100002"
+        }
+      },
+      "end": {
+        "identity": 652,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "油环",
+          "label": "活塞连杆",
+          "id": "20012"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 660,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "一级加料",
+              "label": "装配",
+              "id": "100002"
+            }
+          },
+          "relationship": {
+            "identity": 736,
+            "start": 660,
+            "end": 652,
+            "type": "包含",
+            "properties": {
+              "relationship": "P1包含P2",
+              "P1": "一级加料",
+              "P2": "油环"
+            }
+          },
+          "end": {
+            "identity": 652,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "油环",
+              "label": "活塞连杆",
+              "id": "20012"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 660,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "一级加料",
+          "label": "装配",
+          "id": "100002"
+        }
+      },
+      "end": {
+        "identity": 653,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "油环衬簧",
+          "label": "活塞连杆",
+          "id": "20013"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 660,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "一级加料",
+              "label": "装配",
+              "id": "100002"
+            }
+          },
+          "relationship": {
+            "identity": 737,
+            "start": 660,
+            "end": 653,
+            "type": "包含",
+            "properties": {
+              "relationship": "P1包含P2",
+              "P1": "一级加料",
+              "P2": "油环衬簧"
+            }
+          },
+          "end": {
+            "identity": 653,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "油环衬簧",
+              "label": "活塞连杆",
+              "id": "20013"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 660,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "一级加料",
+          "label": "装配",
+          "id": "100002"
+        }
+      },
+      "end": {
+        "identity": 654,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "压缩环",
+          "label": "活塞连杆",
+          "id": "20014"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 660,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "一级加料",
+              "label": "装配",
+              "id": "100002"
+            }
+          },
+          "relationship": {
+            "identity": 738,
+            "start": 660,
+            "end": 654,
+            "type": "包含",
+            "properties": {
+              "relationship": "P1包含P2",
+              "P1": "一级加料",
+              "P2": "压缩环"
+            }
+          },
+          "end": {
+            "identity": 654,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "压缩环",
+              "label": "活塞连杆",
+              "id": "20014"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 660,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "一级加料",
+          "label": "装配",
+          "id": "100002"
+        }
+      },
+      "end": {
+        "identity": 655,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "缸盖",
+          "label": "零部件",
+          "id": "20015"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 660,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "一级加料",
+              "label": "装配",
+              "id": "100002"
+            }
+          },
+          "relationship": {
+            "identity": 739,
+            "start": 660,
+            "end": 655,
+            "type": "包含",
+            "properties": {
+              "relationship": "P1包含P2",
+              "P1": "一级加料",
+              "P2": "缸盖"
+            }
+          },
+          "end": {
+            "identity": 655,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "缸盖",
+              "label": "零部件",
+              "id": "20015"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 660,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "一级加料",
+          "label": "装配",
+          "id": "100002"
+        }
+      },
+      "end": {
+        "identity": 656,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "气缸套",
+          "label": "零部件",
+          "id": "20016"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 660,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "一级加料",
+              "label": "装配",
+              "id": "100002"
+            }
+          },
+          "relationship": {
+            "identity": 740,
+            "start": 660,
+            "end": 656,
+            "type": "包含",
+            "properties": {
+              "relationship": "P1包含P2",
+              "P1": "一级加料",
+              "P2": "气缸套"
+            }
+          },
+          "end": {
+            "identity": 656,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "气缸套",
+              "label": "零部件",
+              "id": "20016"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 660,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "一级加料",
+          "label": "装配",
+          "id": "100002"
+        }
+      },
+      "end": {
+        "identity": 657,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "油底壳",
+          "label": "零部件",
+          "id": "20017"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 660,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "一级加料",
+              "label": "装配",
+              "id": "100002"
+            }
+          },
+          "relationship": {
+            "identity": 741,
+            "start": 660,
+            "end": 657,
+            "type": "包含",
+            "properties": {
+              "relationship": "P1包含P2",
+              "P1": "一级加料",
+              "P2": "油底壳"
+            }
+          },
+          "end": {
+            "identity": 657,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "油底壳",
+              "label": "零部件",
+              "id": "20017"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 660,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "直接零件",
+          "label": "装配",
+          "id": "100002"
+        }
+      },
+      "end": {
+        "identity": 658,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "机油泵",
+          "label": "零部件",
+          "id": "20018"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 660,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "直接零件",
+              "label": "装配",
+              "id": "100002"
+            }
+          },
+          "relationship": {
+            "identity": 742,
+            "start": 660,
+            "end": 658,
+            "type": "包含",
+            "properties": {
+              "relationship": "P1包含P2",
+              "P1": "直接零件",
+              "P2": "机油泵"
+            }
+          },
+          "end": {
+            "identity": 658,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "机油泵",
+              "label": "零部件",
+              "id": "20018"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 660,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "直接零件",
+          "label": "装配",
+          "id": "100002"
+        }
+      },
+      "end": {
+        "identity": 659,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "机油滤清器",
+          "label": "零部件",
+          "id": "20019"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 660,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "直接零件",
+              "label": "装配",
+              "id": "100002"
+            }
+          },
+          "relationship": {
+            "identity": 743,
+            "start": 660,
+            "end": 659,
+            "type": "包含",
+            "properties": {
+              "relationship": "P1包含P2",
+              "P1": "直接零件",
+              "P2": "机油滤清器"
+            }
+          },
+          "end": {
+            "identity": 659,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "机油滤清器",
+              "label": "零部件",
+              "id": "20019"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 640,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "基本工艺",
+          "label": "装配",
+          "id": "100001"
+        }
+      },
+      "end": {
+        "identity": 668,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "划线",
+          "label": "工艺",
+          "id": "10001"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 640,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "基本工艺",
+              "label": "装配",
+              "id": "100001"
+            }
+          },
+          "relationship": {
+            "identity": 705,
+            "start": 640,
+            "end": 668,
+            "type": "包含",
+            "properties": {
+              "relationship": "P1包含P2",
+              "P1": "基本工艺",
+              "P2": "划线"
+            }
+          },
+          "end": {
+            "identity": 668,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "划线",
+              "label": "工艺",
+              "id": "10001"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 640,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "基本工艺",
+          "label": "装配",
+          "id": "100001"
+        }
+      },
+      "end": {
+        "identity": 669,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "去刺",
+          "label": "工艺",
+          "id": "10002"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 640,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "基本工艺",
+              "label": "装配",
+              "id": "100001"
+            }
+          },
+          "relationship": {
+            "identity": 706,
+            "start": 640,
+            "end": 669,
+            "type": "包含",
+            "properties": {
+              "relationship": "P1包含P2",
+              "P1": "基本工艺",
+              "P2": "去刺"
+            }
+          },
+          "end": {
+            "identity": 669,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "去刺",
+              "label": "工艺",
+              "id": "10002"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 640,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "基本工艺",
+          "label": "装配",
+          "id": "100001"
+        }
+      },
+      "end": {
+        "identity": 670,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "擦拭",
+          "label": "工艺",
+          "id": "10003"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 640,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "基本工艺",
+              "label": "装配",
+              "id": "100001"
+            }
+          },
+          "relationship": {
+            "identity": 707,
+            "start": 640,
+            "end": 670,
+            "type": "包含",
+            "properties": {
+              "relationship": "P1包含P2",
+              "P1": "基本工艺",
+              "P2": "擦拭"
+            }
+          },
+          "end": {
+            "identity": 670,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "擦拭",
+              "label": "工艺",
+              "id": "10003"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 640,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "基本工艺",
+          "label": "装配",
+          "id": "100001"
+        }
+      },
+      "end": {
+        "identity": 671,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "涂胶",
+          "label": "工艺",
+          "id": "10004"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 640,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "基本工艺",
+              "label": "装配",
+              "id": "100001"
+            }
+          },
+          "relationship": {
+            "identity": 708,
+            "start": 640,
+            "end": 671,
+            "type": "包含",
+            "properties": {
+              "relationship": "P1包含P2",
+              "P1": "基本工艺",
+              "P2": "涂胶"
+            }
+          },
+          "end": {
+            "identity": 671,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "涂胶",
+              "label": "工艺",
+              "id": "10004"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 640,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "基本工艺",
+          "label": "装配",
+          "id": "100001"
+        }
+      },
+      "end": {
+        "identity": 672,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "润滑",
+          "label": "工艺",
+          "id": "10005"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 640,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "基本工艺",
+              "label": "装配",
+              "id": "100001"
+            }
+          },
+          "relationship": {
+            "identity": 709,
+            "start": 640,
+            "end": 672,
+            "type": "包含",
+            "properties": {
+              "relationship": "P1包含P2",
+              "P1": "基本工艺",
+              "P2": "润滑"
+            }
+          },
+          "end": {
+            "identity": 672,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "润滑",
+              "label": "工艺",
+              "id": "10005"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 640,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "基本工艺",
+          "label": "装配",
+          "id": "100001"
+        }
+      },
+      "end": {
+        "identity": 673,
+        "labels": [
+          "Entity"
+        ],
+        "properties": {
+          "name": "冷却",
+          "label": "工艺",
+          "id": "10006"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 640,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "基本工艺",
+              "label": "装配",
+              "id": "100001"
+            }
+          },
+          "relationship": {
+            "identity": 710,
+            "start": 640,
+            "end": 673,
+            "type": "包含",
+            "properties": {
+              "relationship": "P1包含P2",
+              "P1": "基本工艺",
+              "P2": "冷却"
+            }
+          },
+          "end": {
+            "identity": 673,
+            "labels": [
+              "Entity"
+            ],
+            "properties": {
+              "name": "冷却",
+              "label": "工艺",
+              "id": "10006"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+    {
+    "p": {
+      "start": {
+        "identity": 640,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "基本工艺",
+          "label": "装配",
+          "id": "100001"
+        }
+      },
+      "end": {
+        "identity": 660,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "一级加料",
+          "label": "装配",
+          "id": "100002"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 640,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "基本工艺",
+              "label": "装配",
+              "id": "100001"
+            }
+          },
+          "relationship": {
+            "identity": 840,
+            "start": 640,
+            "end": 660,
+            "type": "操作",
+            "properties": {
+              "relationship": "P1操作P2",
+              "P1": "基本工艺",
+              "P2": "一级加料"
+            }
+          },
+          "end": {
+            "identity": 660,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "一级加料",
+              "label": "装配",
+              "id": "100002"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 660,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "一级加料",
+          "label": "装配",
+          "id": "100002"
+        }
+      },
+      "end": {
+        "identity": 661,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "间接零件",
+          "label": "装配",
+          "id": "100003"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 660,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "一级加料",
+              "label": "装配",
+              "id": "100002"
+            }
+          },
+          "relationship": {
+            "identity": 724,
+            "start": 660,
+            "end": 661,
+            "type": "操作",
+            "properties": {
+              "relationship": "P1涉及P2",
+              "P1": "一级加料",
+              "P2": "间接零件"
+            }
+          },
+          "end": {
+            "identity": 661,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "间接零件",
+              "label": "装配",
+              "id": "100003"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 640,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "基本工艺",
+          "label": "装配",
+          "id": "100001"
+        }
+      },
+      "end": {
+        "identity": 662,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "工具",
+          "label": "装配",
+          "id": "100004"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 640,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "基本工艺",
+              "label": "装配",
+              "id": "100001"
+            }
+          },
+          "relationship": {
+            "identity": 719,
+            "start": 640,
+            "end": 662,
+            "type": "操作",
+            "properties": {
+              "relationship": "P1使用P2",
+              "P1": "基本工艺",
+              "P2": "工具"
+            }
+          },
+          "end": {
+            "identity": 662,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "工具",
+              "label": "装配",
+              "id": "100004"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 640,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "基本工艺",
+          "label": "装配",
+          "id": "100001"
+        }
+      },
+      "end": {
+        "identity": 663,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "辅料",
+          "label": "装配",
+          "id": "100005"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 640,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "基本工艺",
+              "label": "装配",
+              "id": "100001"
+            }
+          },
+          "relationship": {
+            "identity": 720,
+            "start": 640,
+            "end": 663,
+            "type": "操作",
+            "properties": {
+              "relationship": "P1使用P2",
+              "P1": "基本工艺",
+              "P2": "辅料"
+            }
+          },
+          "end": {
+            "identity": 663,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "辅料",
+              "label": "装配",
+              "id": "100005"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 660,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "一级加料",
+          "label": "装配",
+          "id": "100002"
+        }
+      },
+      "end": {
+        "identity": 664,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "工艺路径",
+          "label": "装配",
+          "id": "100006"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 660,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "一级加料",
+              "label": "装配",
+              "id": "100002"
+            }
+          },
+          "relationship": {
+            "identity": 845,
+            "start": 660,
+            "end": 664,
+            "type": "操作",
+            "properties": {
+              "relationship": "P1移动P2",
+              "P1": "一级加料",
+              "P2": "工艺路径"
+            }
+          },
+          "end": {
+            "identity": 664,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "工艺路径",
+              "label": "装配",
+              "id": "100006"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 640,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "基本工艺",
+          "label": "装配",
+          "id": "100001"
+        }
+      },
+      "end": {
+        "identity": 665,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "装配要求",
+          "label": "装配",
+          "id": "100007"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 640,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "基本工艺",
+              "label": "装配",
+              "id": "100001"
+            }
+          },
+          "relationship": {
+            "identity": 721,
+            "start": 640,
+            "end": 665,
+            "type": "操作",
+            "properties": {
+              "relationship": "P1要求P2",
+              "P1": "基本工艺",
+              "P2": "装配要求"
+            }
+          },
+          "end": {
+            "identity": 665,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "装配要求",
+              "label": "装配",
+              "id": "100007"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 640,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "基本工艺",
+          "label": "装配",
+          "id": "100001"
+        }
+      },
+      "end": {
+        "identity": 666,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "量具",
+          "label": "装配",
+          "id": "100008"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 640,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "基本工艺",
+              "label": "装配",
+              "id": "100001"
+            }
+          },
+          "relationship": {
+            "identity": 722,
+            "start": 640,
+            "end": 666,
+            "type": "操作",
+            "properties": {
+              "relationship": "P1使用P2",
+              "P1": "基本工艺",
+              "P2": "量具"
+            }
+          },
+          "end": {
+            "identity": 666,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "量具",
+              "label": "装配",
+              "id": "100008"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 640,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "基本工艺",
+          "label": "装配",
+          "id": "100001"
+        }
+      },
+      "end": {
+        "identity": 667,
+        "labels": [
+          "Assembling"
+        ],
+        "properties": {
+          "name": "工艺知识",
+          "label": "装配",
+          "id": "100009"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 640,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "基本工艺",
+              "label": "装配",
+              "id": "100001"
+            }
+          },
+          "relationship": {
+            "identity": 723,
+            "start": 640,
+            "end": 667,
+            "type": "操作",
+            "properties": {
+              "relationship": "P1需要P2",
+              "P1": "基本工艺",
+              "P2": "工艺知识"
+            }
+          },
+          "end": {
+            "identity": 667,
+            "labels": [
+              "Assembling"
+            ],
+            "properties": {
+              "name": "工艺知识",
+              "label": "装配",
+              "id": "100009"
+            }
+          }
+        }
+      ],
+      "length": 1
+    }
+  }
+]
